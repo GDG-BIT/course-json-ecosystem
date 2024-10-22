@@ -59,4 +59,14 @@
     "module_number": 6,
     "certification": "paid"
   }
+  {
+    "id": 7,
+    "platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "DSA",
+    "link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "N/A"
+  }
 ]
