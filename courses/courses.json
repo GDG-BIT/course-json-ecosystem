@@ -60,3 +60,14 @@
     "certification": "paid"
   }
 ]
+{
+    "id": 7,
+    "platform": "Cloud don't know",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python1",
+    "difficulty": "pro",
+    "module_number": 6,
+    "certification": "paid"
+  },
+]
