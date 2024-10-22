@@ -59,4 +59,15 @@
     "module_number": 6,
     "certification": "paid"
   }
+
+ {
+    "id": 7,
+    "platform": "physics wallah",
+    "free_course": "nope",
+    "course_name": "physics",
+    "link": "https://www.pw.live/online-course-physics-wallah-jee",
+    "difficulty": "ultro pro level",
+    "module_number": 7,
+    "certification": "no certification"
+  },
 ]
