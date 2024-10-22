@@ -59,6 +59,15 @@
     "module_number": 6,
     "certification": "paid"
   },
+  {
+    "id": 7,
+    "platform": "edX",
+    "free_course": "yes",
+    "course_name": "Computer Science Principles",
+    "link": "https://home.edx.org/",
+    "difficulty": "beginner",
+    "module_number": 6,
+  },=======
    {
     "id": 10,
     "platform": "Udemy",
