@@ -69,4 +69,15 @@
     "module_number": 12,
     "certification": "paid"
   }
+  {
+  "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "python course",
+    "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg",
+    "difficulty": "intermediate",
+    "module_number": 1,
+    "certification": "N/A"
+   
+  },
 ]
