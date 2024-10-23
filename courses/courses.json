@@ -139,6 +139,16 @@
     "difficulty": "beginner",
     "module_number": 3,
     "certification": "paid"
+  },
+  {
+    "id":14,
+    "platform": "Namaste Dev",
+    "free_course": "no",
+    "course_name": "Namaste Frontend System Design",
+    "link": "https://namastedev.com/learn/namaste-frontend-system-design",
+    "difficulty": "advanced",
+    "module_number": 14,
+    "certification": "paid"
   }
 ]
 
